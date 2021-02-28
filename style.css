@@ -1,0 +1,160 @@
+.resume {
+  /* width: 1300px; */
+  height: auto;
+  display: flex;
+  margin: 70px 80px 50px 120px;
+  /* margin: 50px auto; */
+}
+.left_side {
+  background-color: rgba(224, 245, 255, 255);
+  width: 750px;
+}
+.header {
+  display: flex;
+}
+/* .border {
+  border-bottom: 1px solid whitesmoke;
+} */
+.title {
+  margin: 20px;
+}
+.right_side {
+  background-color: white;
+  width: 350px;
+  border: 2px solid #fafafa;
+}
+.skills {
+  /* margin-top: 50px; */
+  background-color: #fafafa;
+  /* margin-left: 20px; */
+}
+.img {
+  height: 140px;
+  width: 140px;
+  margin: 10px 0 0 20px;
+  border-radius: 50%;
+}
+.para {
+  margin-left: 20px;
+}
+.font {
+  display: inline;
+  font-family: "Lato", sans-serif;
+  color: rgb(26, 91, 211);
+  font-weight: 10;
+}
+.a {
+  margin-left: 20px;
+  margin-top: 30px;
+  font-size: 30px;
+  color: rgb(26, 91, 211);
+}
+.row {
+  display: flex;
+  font-family: "Montserrat", sans-serif;
+  font-weight: lighter;
+  margin-left: 20px;
+}
+.col {
+  width: 50%;
+}
+.display {
+  display: inline;
+}
+ul {
+  list-style: none;
+}
+
+ul li:before {
+  content: "✓";
+  font: medium;
+  color: blue;
+}
+li {
+  margin-bottom: 10px;
+  font: bold;
+}
+.acedamics {
+  background-color: white;
+  border-bottom: 5px solid #fafafa;
+  /* margin-bottom: 20px; */
+}
+.aca {
+  display: flex;
+  font-weight: bold;
+  font-size: 200;
+}
+.degree {
+  margin-left: 20px;
+  font-size: bold;
+  margin-top: 20px;
+  width: 40%;
+  margin-bottom: 20px;
+}
+.year {
+  margin-left: 380px;
+  margin-top: 20px;
+}
+
+.experience {
+  background-color: white;
+}
+.place {
+  margin-left: 20px;
+  font-size: bold;
+  margin-top: 20px;
+  width: 50%;
+}
+.time {
+  margin-left: 20px;
+  font-size: bold;
+  margin-top: 20px;
+  width: 24%;
+}
+.date {
+  margin-left: 20px;
+  font-size: bold;
+  margin-top: 20px;
+}
+.projects {
+  background-color: white;
+}
+.work {
+  background-color: white;
+}
+.historyname {
+  margin-left: 20px;
+  font-size: bold;
+  margin-top: 20px;
+  width: 80%;
+  margin-bottom: 20px;
+}
+.historyfrom {
+  margin-top: 20px;
+}
+ol {
+  background-color: white;
+}
+.contactfont {
+  font-family: "Lato", sans-serif;
+  color: rgb(26, 91, 211);
+  font-weight: 10;
+  margin-left: 10px;
+}
+.mobile {
+  margin-left: 20px;
+  color: black;
+}
+.gicon {
+  margin-left: 20px;
+  margin-top: 20px;
+  color: black;
+}
+.border {
+  margin: 5px;
+  border-bottom: 2px solid rgb(26, 91, 211);
+}
+.home {
+  margin-left: 15px;
+  margin-top: 10px;
+}
